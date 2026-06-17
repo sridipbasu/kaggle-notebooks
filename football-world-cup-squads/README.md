@@ -5,7 +5,7 @@ Analysis of all 48 FIFA World Cup 2026 squads using player age, position, league
 ## Notebook
 
 Kaggle Notebook:
-https://www.kaggle.com/code/yourusername/your-notebook
+[Click Here](https://www.kaggle.com/code/sridipbasu/the-dna-of-world-cup-squads-how-48-nations-build)
 
 ## Dataset
 
