@@ -6,7 +6,6 @@ Each project is organized in its own folder with:
 - Notebook (`.ipynb`)
 - Project-specific README
 - Dataset and Kaggle notebook links
-- Key findings and methodology
 
 ## Kaggle Profile
 
