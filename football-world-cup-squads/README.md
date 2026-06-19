@@ -10,7 +10,7 @@ Kaggle Notebook:
 ## Dataset
 
 FIFA World Cup 2026: Squad Lists (All 48 Teams)
-https://www.kaggle.com/datasets/cabcon/fifa-world-cup-2026-squad-lists-all-48-teams
+[Click Here](https://www.kaggle.com/datasets/cabcon/fifa-world-cup-2026-squad-lists-all-48-teams)
 
 ## Key Topics
 
